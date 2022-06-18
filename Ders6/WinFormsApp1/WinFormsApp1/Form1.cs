@@ -51,6 +51,8 @@
         {
             if (MessageBox.Show("Uygulamadan çıkmak istiyor musunuz ?", "Soru", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes)
                 e.Cancel = true;
+            
+            //denem
         }
     }
 }
