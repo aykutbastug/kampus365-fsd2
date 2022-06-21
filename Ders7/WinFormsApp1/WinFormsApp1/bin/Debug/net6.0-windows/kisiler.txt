@@ -1,0 +1,4 @@
+0543 375 8551|Aykut BAŞTUĞ|İş|True
+0543 123 1234|Murat BAŞEREN|İş|True
+0543 111 2345|Betül YANIK|Arkadaş|False
+422 342342|gfsdf sdfgsdg|deneme|False
