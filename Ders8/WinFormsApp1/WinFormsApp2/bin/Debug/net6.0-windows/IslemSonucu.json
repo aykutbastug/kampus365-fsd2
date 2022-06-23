@@ -1,0 +1,30 @@
+[
+  {
+    "Telefon": "111111111",
+    "AdiSoyadi": "Aykut BA\u015ETU\u011E",
+    "Meslek": "Yaz\u0131l\u0131m Geli\u015Ftirici",
+    "IslemSonucu": "Ba\u015Far\u0131l\u0131",
+    "Aciklama": "Say\u0131n Aykut BA\u015ETU\u011E;\r\nMesaj\u0131m\u0131za cevap vermeyin bu bir reklam mesaj\u0131d\u0131r."
+  },
+  {
+    "Telefon": "2222222222",
+    "AdiSoyadi": "Hasan Kedi",
+    "Meslek": "Temizlik\u00E7i",
+    "IslemSonucu": "Hatal\u0131",
+    "Aciklama": "Input string was not in a correct format."
+  },
+  {
+    "Telefon": "33333333333",
+    "AdiSoyadi": "Hasan FEFER",
+    "Meslek": "Ah\u00E7\u0131",
+    "IslemSonucu": "Hatal\u0131",
+    "Aciklama": "Input string was not in a correct format."
+  },
+  {
+    "Telefon": "444444444444",
+    "AdiSoyadi": "Murat BA\u015EEREN",
+    "Meslek": "Yaz\u0131l\u0131m Geli\u015Ftirici",
+    "IslemSonucu": "Ba\u015Far\u0131l\u0131",
+    "Aciklama": "Say\u0131n Murat BA\u015EEREN;\r\nMesaj\u0131m\u0131za cevap vermeyin bu bir reklam mesaj\u0131d\u0131r."
+  }
+]

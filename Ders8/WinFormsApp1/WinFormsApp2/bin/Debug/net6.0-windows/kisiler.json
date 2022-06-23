@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Telefon": "111111111",
+    "AdiSoyadi": "Aykut BAŞTUĞ",
+    "Meslek": "Yazılım Geliştirici"
+  },
+  {
+    "Telefon": "2222222222",
+    "AdiSoyadi": "Hasan Kedi",
+    "Meslek": "Temizlikçi"
+  },
+  {
+    "Telefon": "33333333333",
+    "AdiSoyadi": "Hasan FEFER",
+    "Meslek": "Ahçı"
+  },
+  {
+    "Telefon": "444444444444",
+    "AdiSoyadi": "Murat BAŞEREN",
+    "Meslek": "Yazılım Geliştirici"
+  }
+]

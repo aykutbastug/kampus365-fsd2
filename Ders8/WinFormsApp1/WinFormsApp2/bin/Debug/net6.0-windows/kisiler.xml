@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ArrayOfKisi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Kisi>
+		<Telefon>1111111111</Telefon>
+		<AdiSoyadi>Aykut BAŞTUĞ</AdiSoyadi>
+		<Meslek>Yazılım Geliştirici</Meslek>
+	</Kisi>
+	<Kisi>
+		<Telefon>2222222222</Telefon>
+		<AdiSoyadi>Hasan Kedi</AdiSoyadi>
+		<Meslek>Temizlikçi</Meslek>
+	</Kisi>
+	<Kisi>
+		<Telefon>33333333333</Telefon>
+		<AdiSoyadi>Hasan FEFER</AdiSoyadi>
+		<Meslek>Ahçı</Meslek>
+	</Kisi>
+	<Kisi>
+		<Telefon>444444444444</Telefon>
+		<AdiSoyadi>Murat BAŞEREN</AdiSoyadi>
+		<Meslek>Yazılm Geliştirici</Meslek>
+	</Kisi>
+</ArrayOfKisi>
