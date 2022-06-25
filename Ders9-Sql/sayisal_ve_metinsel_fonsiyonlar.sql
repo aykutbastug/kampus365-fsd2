@@ -44,3 +44,5 @@ select LEN('deneme')
 select UPPER('deneme'), LOWER('DenEme')
 
 select *, LEN(ProductName) as ProductNameLenght from dbo.Products
+
+select  * from OrderDetails where ProductID IN (57, 65, 56, 0)
