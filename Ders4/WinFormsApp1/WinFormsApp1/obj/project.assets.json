@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aykut\\OneDrive\\Kampüs365 - Full Stack Dev 2\\Ders4\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\GitHub\\aykutbastug\\kampus365-fsd2\\Ders4\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\aykut\\OneDrive\\Kampüs365 - Full Stack Dev 2\\Ders4\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\GitHub\\aykutbastug\\kampus365-fsd2\\Ders4\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\aykut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aykut\\OneDrive\\Kampüs365 - Full Stack Dev 2\\Ders4\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\GitHub\\aykutbastug\\kampus365-fsd2\\Ders4\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
