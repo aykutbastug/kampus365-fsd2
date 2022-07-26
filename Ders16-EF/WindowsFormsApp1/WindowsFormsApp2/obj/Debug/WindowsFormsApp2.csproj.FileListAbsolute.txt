@@ -1,0 +1,16 @@
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders16-EF\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
