@@ -60,6 +60,7 @@
             this.cmbSube.Name = "cmbSube";
             this.cmbSube.Size = new System.Drawing.Size(357, 33);
             this.cmbSube.TabIndex = 1;
+            this.cmbSube.SelectedIndexChanged += new System.EventHandler(this.cmbSube_SelectedIndexChanged);
             // 
             // label2
             // 

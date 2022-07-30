@@ -10,7 +10,6 @@ namespace WinFormsApp1.Models
     public class HarcamaDbContext : DbContext
     {
         public DbSet<Sube> Subeler { get; set; }
-
         public DbSet<Personel> Personeller { get; set; }
         public DbSet<Harcama> Harcamalar { get; set; }
         public DbSet<HarcamaDetay> HarcamaDetaylari { get; set; }

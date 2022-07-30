@@ -53,3 +53,4 @@ C:\GitHub\aykutbastug\kampus365-fsd2\Ders17-EF\WinFormsApp1\WinFormsApp1\obj\Deb
 C:\GitHub\aykutbastug\kampus365-fsd2\Ders17-EF\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
 C:\GitHub\aykutbastug\kampus365-fsd2\Ders17-EF\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\GitHub\aykutbastug\kampus365-fsd2\Ders17-EF\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\GitHub\aykutbastug\kampus365-fsd2\Ders17-EF\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.frmSubeHarcamalari.resources

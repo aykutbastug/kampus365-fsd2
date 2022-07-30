@@ -12,25 +12,23 @@ using WinFormsApp1.Models;
 
 namespace WinFormsApp1
 {
-    public partial class frmHarcamalar : Form
+    public partial class frmSubeHarcamalari : Form
     {
-        public frmHarcamalar()
+        public int SubeId;
+        public frmSubeHarcamalari(int subeId)
         {
             InitializeComponent();
+            SubeId = subeId;
         }
 
         HarcamaDbContext db = new HarcamaDbContext();
-        private void btnHarcamaEkle_Click(object sender, EventArgs e)
-        {
-            frmHarcamaEkle frm = new frmHarcamaEkle();
-            frm.ShowDialog();
-        }
 
-        private void btnListeyiYenile_Click(object sender, EventArgs e)
+        private void frmSubeHarcamalari_Load(object sender, EventArgs e)
         {
             dataGridView1.DataSource = db.Harcamalar
                                             .Include(h => h.Sube)
                                             .Include(h => h.Personel)
+                                            .Where(h => h.SubeId == SubeId)
                                             .Select(h =>
                                                 new
                                                 {
@@ -51,8 +49,8 @@ namespace WinFormsApp1
             int harcamaId = int.Parse(dataGridView1.SelectedRows[0].Cells[0].Value.ToString());
 
             var harcamaDetaylari = db.HarcamaDetaylari
-                                                    .Where(x => x.HarcamaId == harcamaId)                                                    
-                                                    .Select(x => 
+                                                    .Where(x => x.HarcamaId == harcamaId)
+                                                    .Select(x =>
                                                         new
                                                         {
                                                             Aciklama = x.Aciklama,
